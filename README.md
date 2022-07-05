@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ankit443
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python, C, C++
+- 🌱 I’m currently learning Python, C, C++, Java, iOS and Android Development
 - 💞️ I’m looking to collaborate on educational projects
 - 📫 You can contact me @ deb.ankit.work@gmail.com
 
